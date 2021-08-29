@@ -9,21 +9,21 @@
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <br/>
 <br/>
-<p align="center" style="font-size: 35px;color: #ffffff" > <code>You wanna know me? AIGHT <img src="https://i.giphy.com/media/oobNzX5ICcRZC/giphy.webp" width="50px"/></code><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <span>You wanna know me? AIGHT <img src="https://i.giphy.com/media/oobNzX5ICcRZC/giphy.webp" width="50px"/></span><p/>
 <p align="left" style="font-size: 20px">
-    <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/> <code>I hate designing things🙂 == (! creative) // True</code>
+    <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/> <span>I hate designing things🙂 == (! creative) // True</span>
     <br/>
     <br/>
     <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/>
-    <code>Aspiring filmmaker 📝🎥 && True // True</code>
+    <span>Aspiring filmmaker 📝🎥 && True // True</span>
     <br/>
     <br/>
     <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/>
-    <code>I love coffe, <strong>pEriodT</strong> // True AF </code>    
+    <span>I love coffe, <strong>pEriodT</strong> // True AF </span>    
 <p/>
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
-<p align="center" style="font-size: 35px;color: #ffffff" > <code>SHIT IG I KNOW <img src="https://i.giphy.com/media/ZdrUuSEC0LygaFXtNT/giphy.webp" width="35px"/></code><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <span>SHIT IG I KNOW <img src="https://i.giphy.com/media/ZdrUuSEC0LygaFXtNT/giphy.webp" width="35px"/></span><p/>
 <p align="center" style="font-size: 35px">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,42 +48,42 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio span](https://img.shields.io/badge/Visual%20Studio%20span-0078d7.svg?style=for-the-badge&logo=visual-studio-span&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="right">
-<code align="right">* Much More shit on the way! :P</code>
+<span align="right">* Much More shit on the way! :P</span>
 </p>
 </p>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <br/>
-<p align="center" style="font-size: 35px;color: #ffffff" > <code>Wanna build next facebook together? AIGHT <img src="https://i.giphy.com/media/ehU0Zn7nYLWRk36nN5/giphy.webp" width="50px"/></code><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <span>Wanna build next facebook together? AIGHT <img src="https://i.giphy.com/media/ehU0Zn7nYLWRk36nN5/giphy.webp" width="50px"/></span><p/>
 <br/>
 <p align="center">
 <a href="https://twitter.com/AadilVarsh/status/1431993790886121473?s=20">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/twitter.svg" width="100px"/>
 <br/>
-<code style="font-size:30px;" > TWITTER </code></a>
+<span style="font-size:30px;" > TWITTER </span></a>
 <br/>
 <a href="https://discord.gg/vSfcuESFjh">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/discord.svg" width="100px"/>
 <br/>
-<code style="font-size:30px;" > DISCORD </code></a>
+<span style="font-size:30px;" > DISCORD </span></a>
 <br/>
 
 <a href="mailto:aadilvarshofficial@gmail.com">
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/mail.svg" width="100px"/>
 <br/>
-<code style="font-size:30px;" > MAIL </code></a>
+<span style="font-size:30px;" > MAIL </span></a>
 
 </p>
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <br/>
 <br/>
-<p align="center" style="font-size: 35px;color: #ffffff" > <code>SIZE MY GITHUB <img src="https://i.giphy.com/media/NEvPzZ8bd1V4Y/giphy.webp" width="30px"/></code><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <span>SIZE MY GITHUB <img src="https://i.giphy.com/media/NEvPzZ8bd1V4Y/giphy.webp" width="30px"/></span><p/>
 <br/>
 
 <p align="center">
@@ -105,6 +105,6 @@
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <p align="center" style="font-size:40px" >
-<code>K BYE!</code>
+<span>K BYE!</span>
 <p/>
 
