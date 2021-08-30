@@ -9,21 +9,21 @@
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <br/>
 <br/>
-<p align="center" style="font-size: 35px;color: #ffffff" > <span style="font-size: 35px">You wanna know me? AIGHT <img src="https://i.giphy.com/media/oobNzX5ICcRZC/giphy.webp" width="50px"/></span style="font-size: 35px"><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <code style="font-size: 35px">You wanna know me? AIGHT <img src="https://i.giphy.com/media/oobNzX5ICcRZC/giphy.webp" width="50px"/></code style="font-size: 35px"><p/>
 <p align="left" style="font-size: 20px">
-    <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/> <span style="font-size: 35px">I hate designing things🙂 == (! creative) // True</span style="font-size: 35px">
+    <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/> <code style="font-size: 20px">I hate designing things🙂 == (! creative) // True</code style="font-size: 35px">
     <br/>
     <br/>
     <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/>
-    <span style="font-size: 35px">Aspiring filmmaker 📝🎥 && True // True</span style="font-size: 35px">
+    <code style="font-size: 20px">Aspiring filmmaker 📝🎥 && True // True</code style="font-size: 35px">
     <br/>
     <br/>
     <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/bullet.png" width="15px"/>
-    <span style="font-size: 35px">I love coffe, <strong>pEriodT</strong> // True AF </span style="font-size: 35px">    
+    <code style="font-size: 20px">I love coffe, <strong>pEriodT</strong> // True AF </code style="font-size: 35px">    
 <p/>
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
-<p align="center" style="font-size: 35px;color: #ffffff" > <span style="font-size: 35px">SHIT IG I KNOW <img src="https://i.giphy.com/media/ZdrUuSEC0LygaFXtNT/giphy.webp" width="35px"/></span style="font-size: 35px"><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <code style="font-size: 35px">SHIT IG I KNOW <img src="https://i.giphy.com/media/ZdrUuSEC0LygaFXtNT/giphy.webp" width="35px"/></code style="font-size: 35px"><p/>
 <p align="center" style="font-size: 35px">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,37 +54,37 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="right">
-<span style="font-size: 35px" align="right">* Much More shit on the way! :P</span style="font-size: 35px">
+<code style="font-size: 20px" align="right">* Much More shit on the way! :P</code style="font-size: 35px">
 </p>
 </p>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <br/>
-<p align="center" style="font-size: 35px;color: #ffffff" > <span style="font-size: 35px">Wanna build next facebook together? AIGHT <img src="https://i.giphy.com/media/ehU0Zn7nYLWRk36nN5/giphy.webp" width="50px"/></span style="font-size: 35px"><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <code style="font-size: 35px">Wanna build next facebook together? AIGHT <img src="https://i.giphy.com/media/ehU0Zn7nYLWRk36nN5/giphy.webp" width="50px"/></code style="font-size: 35px"><p/>
 <br/>
 <p align="center">
 <a href="https://twitter.com/AadilVarsh/status/1431993790886121473?s=20">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/twitter.svg" width="100px"/>
 <br/>
-<span style="font-size: 35px" style="font-size:30px;" > TWITTER </span style="font-size: 35px"></a>
+<code  style="font-size:25px;" > TWITTER </code style="font-size: 35px"></a>
 <br/>
 <a href="https://discord.gg/vSfcuESFjh">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/discord.svg" width="100px"/>
 <br/>
-<span style="font-size: 35px" style="font-size:30px;" > DISCORD </span style="font-size: 35px"></a>
+<code style="font-size: 25px" style="font-size:30px;" > DISCORD </code style="font-size: 35px"></a>
 <br/>
 
 <a href="mailto:aadilvarshofficial@gmail.com">
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/mail.svg" width="100px"/>
 <br/>
-<span style="font-size: 35px" style="font-size:30px;" > MAIL </span style="font-size: 35px"></a>
+<code style="font-size: 25px" style="font-size:30px;" > MAIL </code style="font-size: 35px"></a>
 
 </p>
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <br/>
 <br/>
-<p align="center" style="font-size: 35px;color: #ffffff" > <span style="font-size: 35px">SIZE MY GITHUB <img src="https://i.giphy.com/media/NEvPzZ8bd1V4Y/giphy.webp" width="30px"/></span style="font-size: 35px"><p/>
+<p align="center" style="font-size: 35px;color: #ffffff" > <code style="font-size: 35px">SIZE MY GITHUB <img src="https://i.giphy.com/media/NEvPzZ8bd1V4Y/giphy.webp" width="30px"/></code style="font-size: 35px"><p/>
 <br/>
 
 <p align="center">
@@ -106,6 +106,6 @@
 <br/>
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/ruler.png">
 <p align="center" style="font-size:40px" >
-<span style="font-size: 35px">K BYE!</span style="font-size: 35px">
+<code style="font-size: 35px">K BYE!</code style="font-size: 35px">
 <p/>
 
