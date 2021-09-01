@@ -124,6 +124,8 @@
 <span style="font-size: 35px">
     
 ## K BYE!
+
+![](https://visitor-badge.glitch.me/badge?page_id=aadilvarsh.AadilVarsh)
     
 </code>
 <p/>
