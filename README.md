@@ -76,7 +76,7 @@
 <a href="https://twitter.com/AadilVarsh/status/1431993790886121473?s=20">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/twitter.svg" width="100px"/>
 <br/>
-<code  style="font-size:25px;" > TWITTER </code></a>
+<span  style="font-size:25px;" > TWITTER </span></a>
 <br/>
 <a href="https://discord.gg/vSfcuESFjh">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/discord.svg" width="100px"/>
@@ -104,16 +104,19 @@
 
 <p align="center">
 
-![My stats](https://github-readme-stats.vercel.app/api?username=aadilvarsh&show_icons=true&theme=cobalt)
+![My stats](https://github-readme-stats.vercel.app/api?username=aadilvarsh&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilvarsh&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilvarsh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadilvarsh&theme=dracula)
+
 
 <br/>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aadilvarsh&repo=PingIO&theme=cobalt)](https://github.com/AadilVarsh/PingIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aadilvarsh&repo=PingIO&theme=dracula)](https://github.com/AadilVarsh/PingIO)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aadilvarsh&repo=noKey&theme=cobalt)](https://github.com/AadilVarsh/noKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aadilvarsh&repo=noKey&theme=dracula)](https://github.com/AadilVarsh/noKey)
 
 
 
