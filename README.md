@@ -106,9 +106,11 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=aadilvarsh&show_icons=true&theme=dracula)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadilvarsh&theme=dracula)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilvarsh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadilvarsh&theme=dracula)
 
 
 <br/>
@@ -128,7 +130,7 @@
     
 ## K BYE!
 
-![](https://visitor-badge.glitch.me/badge?page_id=aadilvarsh.AadilVarsh)
+![](https://visitor-badge.glitch.me/badge?page_id=aadilvarsh.AadilVarsh&left_color=grey&right_color=pink)
     
 </code>
 <p/>
