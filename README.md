@@ -78,7 +78,7 @@
 <br/>
 <span  style="font-size:25px;" > TWITTER </span></a>
 <br/>
-<a href="https://discord.gg/vSfcuESFjh">
+<a href="https://dsc.gg/aadilvarsh">
 <img src="https://raw.githubusercontent.com/AadilVarsh/AadilVarsh/master/images/discord.svg" width="100px"/>
 <br/>
 <span style="font-size: 25px" style="font-size:30px;" > DISCORD </code></a>
