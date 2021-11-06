@@ -18,13 +18,12 @@
 
 <div align='center' style='display:flex;justify-content:center;align-items:center;flex-direction:row;color:white;'>
 
+<span>
 <a href="https://github.com/aadilvarsh">
 
 <img src="./images/github.svg" width="64" style="margin:0em 1em;"/>
 
 </a>
-
-<span>&nbsp;<span>
 
 <a href="https://twitter.com/aadilvarsh">
 
@@ -32,17 +31,12 @@
 
 </a>
 
-
-<span>&nbsp;<span>
-
 <a href="https://aadilvarsh.github.io">
 
 <img src="./images/web.svg" width="64"  style="margin:0em 1em;"/>
 
 </a>
-
-
-
+</span>
 </div>
 
 <br/>
