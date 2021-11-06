@@ -24,7 +24,7 @@
 
 </a>
 
-<span>&nbsp;&nbsp;<span>
+<span>&nbsp;<span>
 
 <a href="https://twitter.com/aadilvarsh">
 
@@ -33,9 +33,7 @@
 </a>
 
 
-<span>&nbsp;&nbsp;<span>
-
-<span>&nbsp;&nbsp;<span>
+<span>&nbsp;<span>
 
 <a href="https://aadilvarsh.github.io">
 
