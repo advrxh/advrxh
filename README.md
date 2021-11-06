@@ -20,23 +20,25 @@
 
 <a href="https://github.com/aadilvarsh">
 
-<img src="./images/github.svg" width="48" style="margin:0em 1em;"/>
+<img src="./images/github.svg" width="64" style="margin:0em 1em;"/>
 
 </a>
 
 <a href="https://twitter.com/aadilvarsh">
 
-<img src="./images/twitter.svg" width="48" style="margin:0em 1em;"/>
+<img src="./images/twitter.svg" width="64" style="margin:0em 1em;"/>
 
 </a>
 
 <a href="https://aadilvarsh.github.io">
 
-<img src="./images/web.svg" width="48"  style="margin:0em 1em;"/>
+<img src="./images/web.svg" width="64"  style="margin:0em 1em;"/>
 
 </a>
 
 </div>
+
+<br/>
 
 <div align='center' style='margin:2em 0em;'>
 
