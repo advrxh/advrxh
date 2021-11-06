@@ -24,17 +24,26 @@
 
 </a>
 
+<span>&nbsp;&nbsp;<span>
+
 <a href="https://twitter.com/aadilvarsh">
 
 <img src="./images/twitter.svg" width="64" style="margin:0em 1em;"/>
 
 </a>
 
+
+<span>&nbsp;&nbsp;<span>
+
+<span>&nbsp;&nbsp;<span>
+
 <a href="https://aadilvarsh.github.io">
 
 <img src="./images/web.svg" width="64"  style="margin:0em 1em;"/>
 
 </a>
+
+
 
 </div>
 
