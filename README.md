@@ -22,13 +22,13 @@
 <a href="https://github.com/aadilvarsh">
 
 <img src="./images/github.svg" width="64" style="margin:0em 1em;"/>
-
+<span>  </span>
 </a>
 
 <a href="https://twitter.com/aadilvarsh">
 
 <img src="./images/twitter.svg" width="64" style="margin:0em 1em;"/>
-
+<span>  </span>
 </a>
 
 <a href="https://aadilvarsh.github.io">
