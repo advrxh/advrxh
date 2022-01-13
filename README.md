@@ -21,7 +21,7 @@
 <span>  </span>
 </a>
 
-<a href="https://twitter.com/aadilvarsh">
+<a href="https://twitter.com/advrsh">
 
 <img src="./images/twitter.svg" width="64" style="margin:0em 1em;"/>
 <span>  </span>
