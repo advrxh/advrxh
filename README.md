@@ -39,6 +39,6 @@
 
 <div align='center' style='margin:2em 0em;'>
 
-![stats](https://github-readme-stats.vercel.app/api?username=aadilvarsh&show_icons=true&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api?username=advrxh&show_icons=true&theme=dracula)
 
 </div>
