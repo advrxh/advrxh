@@ -1,5 +1,5 @@
 ```bash
-$ I build. I fail. I learn
+$ I build. I fail. I learn.
 
 ============================
 
