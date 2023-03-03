@@ -3,6 +3,7 @@ $ I build. I fail. I learn.
 
 ============================
 
-Reach me: advrxh at duck.com
-twt: @advrxh
+Reach me  : advrxh at duck.com
+twt       : @advrxh
+web       : [advrxh.tech](https://advrxh.tech)
 ```
